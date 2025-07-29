@@ -54,4 +54,4 @@ The project is designed for **front-end development practice**, focusing on clea
  ## 🔧 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/arpitshukla11/spotify-clone
